@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="style.css" />
-    <title>Home- Jawad</title>
+    <title>Home- TAJ</title>
 </head>
 
 <body>
@@ -29,12 +29,10 @@
     </nav>
 
     <section class="homepage">
-        <div class="pic">
-            <img src="Assets/DP.jpg" />
-        </div>
+        
         <div class="text">
             <p>
-                <span>Hello, </span><br />My Name is <span>MD Jawadul Hasan</span>.I like to solve programming problems and develop web and mobile apps. I am also interested in Machine Learning and data science. And I am looking forward to working as
+                <span>Hello, </span><br />My Name is <span>TAJUL ISLAM</span>.I like to solve programming problems and develop web and mobile apps. I am also interested in Machine Learning and data science. And I am looking forward to working as
                 a software engineer to manifest my skills and enthusiasms.
             </p>
         </div>
@@ -48,12 +46,12 @@
         <div class="skill1">
             <p>C++</p>
             <div class="container">
-                <div class="skills cpp">90%</div>
+                <div class="skills cpp">85%</div>
             </div>
 
             <p>C#</p>
             <div class="container">
-                <div class="skills csharp">85%</div>
+                <div class="skills csharp">80%</div>
             </div>
 
             <p>Wordpress</p>
@@ -147,7 +145,7 @@
             <p> Email:</p>
             <input type="email" name="" placeholder="Your Email" /><br />
             <p> Your Message :</p>
-            <textarea>Hello Taj,....</textarea><br />
+            <textarea>Hello TAJ,....</textarea><br />
             <button>Submit</button>
         </div>
     </section>
