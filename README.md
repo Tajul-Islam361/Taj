@@ -147,7 +147,7 @@
             <p> Email:</p>
             <input type="email" name="" placeholder="Your Email" /><br />
             <p> Your Message :</p>
-            <textarea>Hello Jawad,....</textarea><br />
+            <textarea>Hello Taj,....</textarea><br />
             <button>Submit</button>
         </div>
     </section>
@@ -155,7 +155,7 @@
     <footer class="footerl">
         <center>
             <div class="fnm">
-                <h3><span>JAWAD</span></h3>
+                <h3><span>TAJ</span></h3>
                 <p>&copy; 2021 All rights reserved.</p>
             </div>
         </center>
